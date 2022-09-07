@@ -1,5 +1,5 @@
 {
-  "name": "@enroly/react-images-extended",
+  "name": "@enroly/react-images",
   "version": "0.6.7",
   "description": "A simple, responsive lightbox component for displaying an array of images with React.js with extended features",
   "main": "lib/Lightbox.js",
